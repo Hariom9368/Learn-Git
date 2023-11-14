@@ -1,2 +1,3 @@
 # Learn-Git
-concept of git
+concept of git <bt>
+author-hariom pandey
